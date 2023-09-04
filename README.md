@@ -3,7 +3,7 @@
 - My technical skillset includes C, Python, Machine Learning, Core Java, SQL, HTML, CSS, JavaScript, Git/Github.
 - 👀 I’m interested in Programming. I'm a Coding Enthusiastic.
 - 🌱 I’m currently learning Full Stack Course.
-- 💞️ I’m looking for a DEveloper role/ a role related to my skills job.
+- 💞️ I’m looking for a Developer role/ a role related to my skills job.
 - 📫 I'm  Fresher. And coming to job preferences I'm open to all conditions as per company standards.
 
 <!---
